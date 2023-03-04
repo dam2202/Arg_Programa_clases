@@ -13,6 +13,7 @@ public class ejercicio2 {
 
             i = i - 2;
             System.out.println(i);
+            System.out.println("Fin de los ejercicios");
 
         }
 
